@@ -7,6 +7,24 @@
 ![Type](https://img.shields.io/badge/Type-Accelerator-6C3483)
 ![Language](https://img.shields.io/badge/Language-Thai-success)
 
+---
+
+## 📥 ดาวน์โหลด Accelerator ฟรีจาก Tableau Exchange
+
+[![Download on Tableau Exchange](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Tableau%20Exchange%20%28FREE%29-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://exchange.tableau.com/products/921)
+
+> [!TIP]
+> **กดปุ่มด้านบนเพื่อดาวน์โหลด Workbook** แล้วเปิดด้วย Tableau Desktop ได้ทันที
+> 🔗 ลิงก์ตรง: **https://exchange.tableau.com/products/921**
+
+| 📦 สิ่งที่ได้ | ⏱️ เวลาประเมิน | 🖥️ รองรับ | 💰 ราคา |
+|:-:|:-:|:-:|:-:|
+| Workbook สำเร็จรูป (.twbx) | ไม่กี่นาที | Tableau Server 2021.3+ | ฟรี |
+
+**3 ขั้นสั้น ๆ:** ⬇️ [ดาวน์โหลด](https://exchange.tableau.com/products/921) → 🔓 [เปิดสิทธิ์ Repository](#-เปิดสิทธิ์เข้าถึง-tableau-server-repository) → 🚀 [ทำตามขั้นตอนใช้งาน](#5-ขั้นตอนการใช้งาน)
+
+---
+
 🧭 [ที่มาที่ไป](#1-ที่มาที่ไป) •
 ⚖️ [Server vs Cloud](#2-tableau-server-vs-tableau-cloud) •
 🧰 [รู้จัก Accelerator](#3-รู้จัก-accelerator) •
@@ -222,6 +240,8 @@ tsm data-access repository-access disable
 ## 5. ขั้นตอนการใช้งาน
 
 ### Step 1 — ดาวน์โหลด Accelerator 📥
+
+[![Download on Tableau Exchange](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Tableau%20Exchange%20%28FREE%29-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://exchange.tableau.com/products/921)
 
 1. ไปที่ [Tableau Exchange: Tableau Cloud Migration Technical Readiness Assessment](https://exchange.tableau.com/products/921)
 2. กด **Download** แล้วเปิดไฟล์ด้วย Tableau Desktop
